@@ -10,12 +10,15 @@ The website is a completely client side implementation of the game that utilizes
 
 Feel free to share, and modify this implementation to meet your needs!
 
-Screentshots!
-
+Screenshots!
+----Welcome Page----
 ![alt text](screenshots/pythonWelcome.png "Welcome Page")
 
+----Rules Page----
 ![alt text](screenshots/pythonRules.png "Rules")
 
+----Action Success Page----
 ![alt text](screenshots/pythonActionSuccess.png "Successful Action")
 
+----Action Failure Page----
 ![alt text](screenshots/pythonActionFailure.png "Action Failure")
