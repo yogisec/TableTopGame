@@ -10,7 +10,7 @@ The website is a completely client side implementation of the game that utilizes
 
 Feel free to share, and modify this implementation to meet your needs!
 
-Screenshots!
+Screenshots! <br />
 ----Welcome Page---- <br />
 ![alt text](screenshots/pythonWelcome.png "Welcome Page")
 
